@@ -1,3 +1,3 @@
-# BMods
+<h1 align="center">BMods</h1>
 
-A small organization that makes mods.
+<p align="center">A small organization that makes mods<p>
