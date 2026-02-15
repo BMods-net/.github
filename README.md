@@ -1,3 +1,3 @@
 # BMods
 
-Small organization that makes mods.
+special repository
